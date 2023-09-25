@@ -1,4 +1,5 @@
-# StrictStudy
+# <a href="https://strictstudy.000webhostapp.com" target="_blank" rel="noopener noreferrer">StrictStudy</a>
+
 StrictStudy is an online study tool developed for people, especially students, to help them increase their productivity and provide systematic environment for study.
 To see the website visit: https://strictstudy.000webhostapp.com/ 
 
